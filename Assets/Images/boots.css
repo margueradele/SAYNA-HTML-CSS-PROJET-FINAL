@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.part-1{
+    background-image: url(/Assets/Images/group-1.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+}
+.part-1-1{
+    padding-top: 200px;
+}
+.part-2{
+    
+}
+.part-3{
+    background-color: #d35649;
+}
+.part-3 img{
+    clip-path: circle();
+    margin-left: 350px;
+}
+
+
+.part-4{
+    background-color: #98a5a5;
+    ;
+}
+.part-4 img{
+    clip-path: circle();
+    margin-left: 400px;
+}
+
+
+.part-5{
+    background-color: #509bd7;
+}
+.part-5 img{
+    clip-path: circle();
+    margin-left: 790px;
+}
+
+.part-6{
+    background-color: black;
+}
+
+.part-7{
+    background-color: #444;
+}
